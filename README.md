@@ -1,3 +1,3 @@
-# test-repostitory
+# test-repository
 
 Test-repository for trustly-challange.
